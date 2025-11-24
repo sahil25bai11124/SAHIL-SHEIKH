@@ -106,29 +106,4 @@ Habit Tracker is a web application that helps users track their daily habits. Us
 
     - Add new habits, mark them as completed, and track your progress.
 
-6. **Toggle dark mode:**
 
-    - Use the "Toggle Dark Mode" button to switch between light and dark themes.
-
-7. **Receive email reminders:**
-
-    - The application will send daily email reminders to complete your habits.
-
-## Testing Email Reminders
-
-To manually trigger email reminders for testing purposes, navigate to `http://127.0.0.1:5000/test_reminders` in your web browser.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](http://_vscodecontentref_/1) file for details.
-
-## Contributing
-
-Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
-
-## Acknowledgements
-
-- [Flask](https://flask.palletsprojects.com/)
-- [Bootstrap](https://getbootstrap.com/)
-- [Chart.js](https://www.chartjs.org/)
-- [APScheduler](https://apscheduler.readthedocs.io/)
